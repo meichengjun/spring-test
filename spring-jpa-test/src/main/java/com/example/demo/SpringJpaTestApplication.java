@@ -8,7 +8,7 @@ public class SpringJpaTestApplication {
 
 	public static void main(String[] args) {
 		
-		//test
+		//test111
 		SpringApplication.run(SpringJpaTestApplication.class, args);
 	}
 }
